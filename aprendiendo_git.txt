@@ -1,0 +1,11 @@
+
+- [[Aprender GitHub]]
+- git checkot -b master                   /posionas en la rama master
+- git pull origin master                     /descargas cambios en la rama master
+- git checkout -b ramanueva        /creas la rama nueva y te posisionas en ella
+- git add .                                        /agregas cambios a la nueva rama
+- git status                                        /te muestra la rama en la que estas y que hace falta cambiar
+- git commit -am "aqui pones comentario"      /aqui guardas los cambios y agregas comentario
+- git push origin nuevarama                  /aqui subes los cambios que hiciste a la rama nueva
+- git clone                                                / sirve para descargar un repositorio
+
